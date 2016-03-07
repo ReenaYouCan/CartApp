@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CartApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_add_to_cart">Add to cart</string>
+    <string name="str_remove_from_cart">Remove from cart</string>
+
+
+</resources>
